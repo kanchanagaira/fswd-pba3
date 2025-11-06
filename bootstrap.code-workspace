@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../bootstrap"
+		},
+		{
+			"path": "../../fsd lab/portfolio"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio"
+	}
+}
